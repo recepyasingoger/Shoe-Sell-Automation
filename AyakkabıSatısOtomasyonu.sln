@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AyakkabıSatısOtomasyonu", "AyakkabıSatısOtomasyonu\AyakkabıSatısOtomasyonu.csproj", "{ABF78D1A-8B86-4723-8B32-D971EA4AE130}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABF78D1A-8B86-4723-8B32-D971EA4AE130}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABF78D1A-8B86-4723-8B32-D971EA4AE130}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABF78D1A-8B86-4723-8B32-D971EA4AE130}.Debug|x64.ActiveCfg = Debug|x64
+		{ABF78D1A-8B86-4723-8B32-D971EA4AE130}.Debug|x64.Build.0 = Debug|x64
+		{ABF78D1A-8B86-4723-8B32-D971EA4AE130}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABF78D1A-8B86-4723-8B32-D971EA4AE130}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABF78D1A-8B86-4723-8B32-D971EA4AE130}.Release|x64.ActiveCfg = Release|x64
+		{ABF78D1A-8B86-4723-8B32-D971EA4AE130}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3DB551B-BDC2-4657-ABC5-273B8746BFB2}
+	EndGlobalSection
+EndGlobal
