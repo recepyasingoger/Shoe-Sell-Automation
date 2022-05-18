@@ -1,7 +1,7 @@
 # Ayakkabı Satış Otomasyonu
 Windows Form Uygulamasıyla yapılmış bir satış otomasyonu.
 # Yazılım
-Visual Studio and Bunifu.Net UI Framework.
+Visual Studio and Guna UI Framework.
 
 ![Login Screen Gif](https://github.com/recepyasingoger/AyakkabiSatisOtomasyonu/blob/master/Giriş.gif)
 
