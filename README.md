@@ -1,5 +1,5 @@
 # Ayakkabı Satış Otomasyonu
-Projenin Tasarımında Guna Eklentisi Kullanılmıştır.Veritabanı dosyanın içinde mevcuttur.
+Windows Form Uygulamasıyla yapılmış bir satış otomasyonu. Tasarım'da Guna kütüphanesi kullanılmıştır. 
 
 ( Yapım Aşamasında )
 ![Login Screen Gif](https://github.com/recepyasingoger/AyakkabiSatisOtomasyonu/blob/master/Giriş.gif)
